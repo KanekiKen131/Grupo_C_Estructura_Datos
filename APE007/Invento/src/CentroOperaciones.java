@@ -1,7 +1,7 @@
 public class CentroOperaciones {
 
     /*
-    Author: Leonel Lima (LMess131)
+    Author:Leonel Lima (LMess131)
     */
     public static int buscarLineal(Paquete[] lista, int id) {
         for (int i = 0; i < lista.length; i++) {
